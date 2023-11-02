@@ -1,13 +1,10 @@
-### Hi there 👋 Im Hasan Hamit Demirdoven. 
+### Hi there 👋 I'm Hasan Hamit Demirdoven. 
 <u><b>Who Im I</b></u>: A passionate Web3 developer from Turkey.
-- 🔭 I’m currently working on [PredictorsApp](https://predictors-dapp.vercel.app/)
-
-- 🌱 I’m currently learning **the depths of the Web3 world.**
-
+- 💻 I’m currently working on [PredictorsApp](https://predictors-dapp.vercel.app/)
+- 👨‍🏫 I’m currently learning **the depths of the Web3 world.**
 - 💬 You can ask me about **JavaScript, Solidity, Mobile Development.**
-
-- 📫 How to reach me **hi@herasoft.com.tr** or **demirdoven.hh@gmail.com**
-- 📫 I sometimes make videos about the Web3 ecosystem and dApp development on my <a href="https://www.youtube.com/channel/uc5ve0wzg3bljjtm2wbut96g" target="blank">YT channel</a>
+- 📨 How to reach me **hi@herasoft.com.tr** or **demirdoven.hh@gmail.com**
+- 📽️ I sometimes make videos about the Web3 ecosystem and dApp development on my <a href="https://www.youtube.com/channel/uc5ve0wzg3bljjtm2wbut96g" target="blank">YT channel</a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrdvn&show_icons=true&locale=en&layout=compact" alt="dmrdvn" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
