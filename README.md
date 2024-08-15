@@ -5,6 +5,7 @@
 - 💬 You can ask me about **JavaScript, Solidity, Mobile Development.**
 - 📨 How to reach me **hello@herasoft.com.tr** or **demirdoven.hh@gmail.com**
 - 📽️ I sometimes make videos about the Web3 ecosystem and dApp development on my <a href="https://www.youtube.com/channel/UC5vE0wzG3bLJjtM2Wbut96g" target="blank">YT channel</a>
+- 📃 You can check out my <a href="https://dmrdvn.gitbook.io/web3-dev-handbook" target="blank">Web3 Dev HandBook</a>, a comprehensive resource for Web3 developers.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmrdvn&show_icons=true&locale=en&layout=compact" alt="dmrdvn" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
