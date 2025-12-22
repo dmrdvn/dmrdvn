@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Hasan Hamit Demirdoven. 
 <u><b>Who Im I</b></u>: A passionate Web3 developer from Turkey.
-- 💻 I’m currently working on [PredictorsApp](https://predictors-dapp.vercel.app/)
+- 💻 I’m currently working on [Chainlab](https://chainlab.dev)
 - 👨‍🏫 I’m currently learning **the depths of the Web3 world.**
-- 💬 You can ask me about **JavaScript, Solidity, Mobile Development.**
+- 💬 You can ask me about **JavaScript, Solidity, Rust and Mobile Development.**
 - 📨 How to reach me **hello@herasoft.com.tr** or **demirdoven.hh@gmail.com**
 - 📽️ I sometimes make videos about the Web3 ecosystem and dApp development on my <a href="https://www.youtube.com/channel/UC5vE0wzG3bLJjtM2Wbut96g" target="blank">YT channel</a>
 - 📃 You can check out my <a href="https://dmrdvn.gitbook.io/web3-dev-handbook" target="blank">Web3 Dev HandBook</a>, a comprehensive resource for Web3 developers.
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/demirdovenhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="demirdovenhh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan-hamit-demirdoven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-hamit-demirdoven" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dmrdvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmrdvn" height="30" width="40" /></a>
 <a href="https://instagram.com/dmrdvnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmrdvnn" height="30" width="40" /></a>
 <a href="https://fb.com/puremoment1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puremoment1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6182518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6182518" height="30" width="40" /></a>
